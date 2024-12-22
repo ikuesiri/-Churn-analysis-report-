@@ -4,4 +4,6 @@
 #### Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
 
 
-![risk analysis]()
+![churn info](https://github.com/ikuesiri/-Churn-analysis-report-/blob/main/pwc_t2_1.jpg)
+
+![customer risk analysis](https://github.com/ikuesiri/-Churn-analysis-report-/blob/main/pwc_t2_2.jpg)
